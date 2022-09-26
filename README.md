@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{My Team Challange}</h1>
+<h1 align="center">My Team Challange</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{www.abbakat.netlify.app})
-- GitHub [@your-username](https://{github.com/abbakvr})
-- Twitter [@your-twitter](https://{twitter.com/abbakar_tech})
+- Website [your-website.com](https://www.abbakar.netlify.app)
+- GitHub [@your-username](https://github.com/abbakvr)
+- Twitter [@your-twitter](https://twitter.com/abbakar_tech)
