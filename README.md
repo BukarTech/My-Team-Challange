@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">{My Team Challange}</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://{https://www.figma.com/file/F8d1qJsorEdY47N74HLxQ4/team-page-challenge?node-id=1%3A2}">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://{https://effervescent-donut-f472f7.netlify.app/}">
       Solution
     </a>
     <span> | </span>
@@ -70,6 +70,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [your-website.com](https://{www.abbakat.netlify.app})
+- GitHub [@your-username](https://{github.com/abbakvr})
+- Twitter [@your-twitter](https://{twitter.com/abbakar_tech})
